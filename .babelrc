@@ -9,7 +9,7 @@
     ],
     "plugins": [
         [
-            "@babel/plugin-proposal-decorators",
+            "babel/plugin-proposal-decorators",
             {
                 "decoratorsBeforeExport": true
             }
@@ -20,12 +20,6 @@
             {
                 "helpers": false,
                 "regenerator": true
-            }
-        ],
-        [
-            "@babel/plugin-proposal-object-rest-spread",
-            {
-                "useBuiltIns": true
             }
         ]
     ]
