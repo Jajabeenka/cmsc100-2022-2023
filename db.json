@@ -1,0 +1,12 @@
+{
+  "users": {
+    "jaredlev1": {
+      "hashedPassword": "$2b$10$frtO7lAVDIFIgHgh6TJaeOVh0.o2C2xjQRfpZ8Hp/B7.UAzSflUUe",
+      "firstName": "Jared",
+      "lastName": "Carranza",
+      "createdDate": 1665967372260,
+      "updatedDate": 1665967372260
+    }
+  },
+  "todos": {}
+}
